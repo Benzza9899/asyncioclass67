@@ -1,8 +1,4 @@
-# example of gather for many coroutines in a list
-<<<<<<< HEAD
-# example of gather for many coroutines in a list
-=======
->>>>>>> Benz
+
 import asyncio
 
 #corotine used for a task
